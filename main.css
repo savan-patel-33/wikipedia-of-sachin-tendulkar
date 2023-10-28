@@ -1,0 +1,38 @@
+div{
+    text-align: center;
+}
+body{
+    background-color: #e40b0b;
+}
+h1{
+    font-family: 'Felipa', cursive;
+    font-size: 100px;
+    text-align: center;
+    color: black;
+}
+.image{
+    height: 500px;
+}
+h2{
+    font-family: 'Felipa', cursive;
+    font-size: 50px;
+}
+pre{
+    text-align: center;
+}
+#information{
+    background-color: rgb(210, 54, 54);
+    box-shadow: 20px 20px 20px #aa3030;
+    font-family: Georgia;
+    padding: 50px 50px;
+    margin: 100px;
+    margin-top: 50px;
+}
+table{
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+table,td,th{
+    border: 1px solid black;
+}
